@@ -26,6 +26,7 @@
 * 第三步：宝塔面板部署此程序(教程还没写)
 * 第四步：[获取corpid、corpsecret、agentid、touser](https://github.com/zaocanchishenmo/C_push_msg_to_wx/wiki/%E7%AC%AC%E5%9B%9B%E6%AD%A5%EF%BC%9A%E8%8E%B7%E5%8F%96corpid%E3%80%81corpsecret%E3%80%81agentid%E3%80%81touser)
 * 第五步：将corpid、corpsecret添加到本程序的配置文件中(教程还没写)
+* 第六步：设置微信接收企业微信消息(教程还没写)
 
 ## 使用说明
 你只需要有一个**微信账号**即可实现。
